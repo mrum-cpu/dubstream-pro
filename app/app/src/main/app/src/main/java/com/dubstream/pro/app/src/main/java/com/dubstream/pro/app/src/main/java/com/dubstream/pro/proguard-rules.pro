@@ -1,3 +1,0 @@
--keep class com.chaquo.python.** { *; }
--keep class com.dubstream.pro.** { *; }
--dontwarn com.chaquo.**
